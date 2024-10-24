@@ -4,7 +4,6 @@
 
 # Admin Features:
 ### Pick Winner: The contract manager can randomly select a winner from the list of participants.
-### View Participants: Admin can view the list of participants who have entered the lottery.
 
 # User Features:
 ### Enter Lottery: Users can send 0.001 Ether to participate in the lottery.
