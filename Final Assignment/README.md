@@ -21,8 +21,8 @@
 ### Installation Steps:
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/ketulpatel01/ketulpatel01_AssignmentRepo/tree/main/Final%20Assignment
-   cd ethereum-lottery-dapp
+   git clone https://github.com/ketulpatel01/ketulpatel01_AssignmentRepo.git
+   cd Final Assignment
    ```
 
 2. **Install project dependencies:**
